@@ -4,7 +4,7 @@ This repository contains open-source materials (slides, Docker environments, cod
 
 ## 🤝 Contributing
 
-Feel free to submit a pull request with:
+Materials used in in-person and online events for lectures, workshops, etc:
 
 - Presentation slides (PDF or PPT)
 - Dockerfiles or containers used during workshops
