@@ -137,7 +137,7 @@ img.profile-photo-lg{
                         $id = $row["id"];
                         $name = $row["name"];
                         
-                        $comment = htmlspecialchars($row["comment"]);
+                        $comment = $row["comment"];
 
                     ?>
 
